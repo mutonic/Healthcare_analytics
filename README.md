@@ -1,0 +1,7 @@
+# Healthcare_analytics
+
+This repository contains a Python notebook file with code for data exploration, feature engineering, and machine learning models, including Naive Bayes, XGBoost, and Neural Networks, all applied to healthcare analytics. The project involves analyzing hospital admission data to accurately predict the length of stay (LOS) of patients, allowing hospitals to optimize resources and improve patient care outcomes. The training dataset comprises 318,438 observations and 17 variables that can be used to predict LOS.
+
+In healthcare analytics, analyzing data using quantitative and qualitative techniques is critical to exploring trends and patterns and leveraging insights for better care. Predicting LOS is essential as it allows hospitals to reduce LOS, lower infection rates among patients, staff, and visitors, and optimize treatment plans.
+
+The project highlights include building three models to predict LOS: a Naïve Bayes model with a classification accuracy of 34.55%, an XGBoost ensemble method with a prediction accuracy of 43.05%, and a dense neural network with six layers, yielding an accuracy of 42.5%. Additionally, the repository includes a PDF report file providing an overview of the project, predictions, and results. The datasets.zip file contains both the test and train data used in the project, while the HTML file provides a markdown of the Jupyter notebook with all outputs to view without Python or its IDE.
